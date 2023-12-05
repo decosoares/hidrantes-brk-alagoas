@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Hid_Operante" id="Hid_Operante">
+	<SimpleField name="Ponto_de_refer__ncia" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Situaa____o" type="string"></SimpleField>
+	<SimpleField name="Localiza____o" type="string"></SimpleField>
+	<SimpleField name="Manuten____o" type="string"></SimpleField>
+	<SimpleField name="Cidade" type="string"></SimpleField>
+	<SimpleField name="Data_Manuten____o" type="string"></SimpleField>
+	<SimpleField name="VAZ__O_L_min_" type="float"></SimpleField>
+	<SimpleField name="DATA_MEDI____O" type="string"></SimpleField>
+	<SimpleField name="PINTURA" type="string"></SimpleField>
+	<SimpleField name="COR" type="string"></SimpleField>
+	<SimpleField name="OBSERVA____O" type="string"></SimpleField>
+	<SimpleField name="O" type="string"></SimpleField>
+	<SimpleField name="ncia" type="string"></SimpleField>
+	<SimpleField name="o2" type="string"></SimpleField>
+</Schema>
+<Folder><name>Hid_Operante</name>
+  <Placemark>
+	<name>Hidrante_06</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Esquina do mercadinho e posto de gasolina, prÃ³ximo ao Quartel do Comando Geral do CBM/AL</SimpleData>
+		<SimpleData name="Latitude">-9.671368</SimpleData>
+		<SimpleData name="Longitude">-35.756318</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Siqueira Campos, bairro do Trapiche da Barra</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/1/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">44233</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/3/2023</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">Esquina do mercadinho e posto de gasolina, prÃ³ximo ao Quartel do Comando Geral do CBM/AL</SimpleData>
+		<SimpleData name="o2">11/1/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.756318,-9.671368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_07</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada da PraÃ§a Lions, no bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Latitude">-9.663025</SimpleData>
+		<SimpleData name="Longitude">-35.709081</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Jangadeiros Alagoanos, bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">14833</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada da PraÃ§a Lions, no bairro da PajuÃ§ara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.709081,-9.663025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_08</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo Ã  sorveteria Bali, no bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Latitude">-9.66963</SimpleData>
+		<SimpleData name="Longitude">-35.715</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Dr Antonio Gouveia, esquina com a rua Lessa de Azevedo, bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">55617</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo Ã  sorveteria Bali, no bairro da PajuÃ§ara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.715,-9.66963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_11</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo ao antigo campo do CRB no bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Latitude">-9.66857</SimpleData>
+		<SimpleData name="Longitude">-35.71641</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua AraÃºjo Bivar com a rua Almirante Mascarenhas, bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/7/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">41667</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/23/2023</SimpleData>
+		<SimpleData name="PINTURA">FALTA PINTURA</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">Manutenção da caixa de registro</SimpleData>
+		<SimpleData name="O">Manutenção da caixa de registro</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo ao antigo campo do CRB no bairro da PajuÃ§ara</SimpleData>
+		<SimpleData name="o2">11/7/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.71641,-9.66857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_13</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo Ã  antiga lanchonete Bobs, por trÃ¡s do Banco ItaÃº, Ponta Verde</SimpleData>
+		<SimpleData name="Latitude">-9.660836</SimpleData>
+		<SimpleData name="Longitude">-35.697598</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Higia Vasconcelos, esquina com a Rubens Canuto, bairro da Ponta Verde</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">68267</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo Ã  antiga lanchonete Bobs, por trÃ¡s do Banco ItaÃº, Ponta Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.697598,-9.660836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_14</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente Ã  GEAP, na calÃ§ada da lanchonete Tantan</SimpleData>
+		<SimpleData name="Latitude">-9.65668</SimpleData>
+		<SimpleData name="Longitude">-35.70771</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Dep JosÃ© Lages, esquina com a rua JÃºlio Sawer, bairro da Ponta Verde</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/7/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente coberta, hidrante semienterrado</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente coberta, hidrante semienterrado</SimpleData>
+		<SimpleData name="ncia">Em frente Ã  GEAP, na calÃ§ada da lanchonete Tantan</SimpleData>
+		<SimpleData name="o2">11/7/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.70771,-9.65668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_15</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo Ã  FarmÃ¡cia Permanente no bairro da Ponta Verde</SimpleData>
+		<SimpleData name="Latitude">-9.65663</SimpleData>
+		<SimpleData name="Longitude">-35.70268</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Dep JosÃ© Lages, esquina com a rua Odilon Vasconcelos, bairro da Ponta Verde</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/5/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">5485</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/6/2023</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente coberta, hidrante semienterrado</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente coberta, hidrante semienterrado</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo Ã  FarmÃ¡cia Permanente no bairro da Ponta Verde</SimpleData>
+		<SimpleData name="o2">11/5/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.70268,-9.65663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_20</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo Ã  panificaÃ§Ã£o Lima e Rocha e ao CEPA, no bairro do Pinheiro</SimpleData>
+		<SimpleData name="Latitude">-9.6387</SimpleData>
+		<SimpleData name="Longitude">-35.74189</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Manoel Menezes, no bairro do Pinheiro</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/9/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Enterrado, caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Enterrado, caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo Ã  panificaÃ§Ã£o Lima e Rocha e ao CEPA, no bairro do Pinheiro</SimpleData>
+		<SimpleData name="o2">11/9/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.74189,-9.6387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_23</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada do Quartel do ExÃ©rcito, em frente ao Posto BR no Farol</SimpleData>
+		<SimpleData name="Latitude">-9.631265</SimpleData>
+		<SimpleData name="Longitude">-35.737015</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Cel. Murilo OtÃ¡vio de Barros, no bairro do Farol</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/8/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada do Quartel do ExÃ©rcito, em frente ao Posto BR no Farol</SimpleData>
+		<SimpleData name="o2">11/8/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.737015,-9.631265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_24</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Ao lado do Hospital Veredas, no bairro do Farol</SimpleData>
+		<SimpleData name="Latitude">-9.623207</SimpleData>
+		<SimpleData name="Longitude">-35.735907</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Roberto Simonsen, no bairro do Farol</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">24167</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Ao lado do Hospital Veredas, no bairro do Farol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.735907,-9.623207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_25</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente Ã  Unimed, no bairro do Farol</SimpleData>
+		<SimpleData name="Latitude">-9.622441</SimpleData>
+		<SimpleData name="Longitude">-35.738966</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Fernandes Lima, no bairro do Farol</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">639</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Em frente Ã  Unimed, no bairro do Farol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.738966,-9.622441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_26</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao Arquivo Centrla da CASAL, no bairro do SanatÃ³rio</SimpleData>
+		<SimpleData name="Latitude">-9.624898</SimpleData>
+		<SimpleData name="Longitude">-35.742477</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Travessa Silveira Camerino, uma rua apÃ³s a Unimed no bairro do Farol</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">63917</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Em frente ao Arquivo Centrla da CASAL, no bairro do SanatÃ³rio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.742477,-9.624898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_30</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada da Capitania dos Portos no bairro do JaraguÃ¡</SimpleData>
+		<SimpleData name="Latitude">-9.669498</SimpleData>
+		<SimpleData name="Longitude">-35.727617</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua do Uruguai, esquina com a rua SilvÃ©rio Jorge, no bairro do JaraguÃ¡</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/22/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">150</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/23/2023</SimpleData>
+		<SimpleData name="PINTURA">FALTA PINTURA</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO SUBSTITUÍDO </SimpleData>
+		<SimpleData name="O">REGISTRO SUBSTITUÍDO</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada da Capitania dos Portos no bairro do JaraguÃ¡</SimpleData>
+		<SimpleData name="o2">11/22/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.727617,-9.669498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_31</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo ao moinho Motrisa e em frente ao CartÃ³rio no bairro do PoÃ§o</SimpleData>
+		<SimpleData name="Latitude">-9.66311</SimpleData>
+		<SimpleData name="Longitude">-35.72397</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Comend LeÃ£o, no bairro do PoÃ§o</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">53483</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO, falta tampa frontal</SimpleData>
+		<SimpleData name="O">PINTADO, falta tampa frontal</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo ao moinho Motrisa e em frente ao CartÃ³rio no bairro do PoÃ§o</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.72397,-9.66311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_32</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na PraÃ§a da Bomba da Marieta, no bairro do PoÃ§o</SimpleData>
+		<SimpleData name="Latitude">-9.65612</SimpleData>
+		<SimpleData name="Longitude">-35.72302</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Comend CalaÃ§a, no bairro do PoÃ§o</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">74033</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na PraÃ§a da Bomba da Marieta, no bairro do PoÃ§o</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.72302,-9.65612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_37</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na entrada do Loteamento Parque do Feitosa, em frente ao Cond Bariloche</SimpleData>
+		<SimpleData name="Latitude">-9.62975</SimpleData>
+		<SimpleData name="Longitude">-35.71591</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Juca Sampaio, no Bairro do Barro Duro</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">1985</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na entrada do Loteamento Parque do Feitosa, em frente ao Cond Bariloche</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.71591,-9.62975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_44</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Oceanis, no bairro do SÃ­tio SÃ£o Jorge</SimpleData>
+		<SimpleData name="Latitude">-9.610139</SimpleData>
+		<SimpleData name="Longitude">-35.698528</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av JosÃ© Airton Gondin Lamenha, no Bairro do SÃ­tio SÃ£o Jorge</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">27017</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Oceanis, no bairro do SÃ­tio SÃ£o Jorge</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.698528,-9.610139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_48</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo ao mercadinho SKOL e Ã  subestaÃ§Ã£o da EletrobrÃ¡s, rua sem saÃ­da</SimpleData>
+		<SimpleData name="Latitude">-9.58013</SimpleData>
+		<SimpleData name="Longitude">-35.77989</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">15033</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo ao mercadinho SKOL e Ã  subestaÃ§Ã£o da EletrobrÃ¡s, rua sem saÃ­da</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.77989,-9.58013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_49</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada do bar Bom Gole e em frente Ã  PraÃ§a do Osman Loureiro</SimpleData>
+		<SimpleData name="Latitude">-9.58013</SimpleData>
+		<SimpleData name="Longitude">-35.77989</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">22767</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada do bar Bom Gole e em frente Ã  PraÃ§a do Osman Loureiro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.77989,-9.58013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_50</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao DepÃ³sito de bebidas do Ãndio, prÃ³ximo ao SalÃ£o de Beleza Bello Studio, no Osman Loureiro</SimpleData>
+		<SimpleData name="Latitude">-9.58092</SimpleData>
+		<SimpleData name="Longitude">-35.7787</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conj Osman Loureiro, Qd C/5, no bairro do Tabuleiro dos Martins</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">25767</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Em frente ao DepÃ³sito de bebidas do Ãndio, prÃ³ximo ao SalÃ£o de Beleza Bello Studio, no Osman Loureiro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7787,-9.58092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_51</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frenta Ã  antena de transmissÃ£o de telefonia celular prÃ³ximo Ã  PraÃ§a no bairro do Clima Bom</SimpleData>
+		<SimpleData name="Latitude">-9.58241</SimpleData>
+		<SimpleData name="Longitude">-35.77842</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conj Osman Loureiro, Qd C/6, no bairro do Tabuleiro dos Martins</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/8/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REALIZAR PINTURA</SimpleData>
+		<SimpleData name="O">REALIZAR PINTURA</SimpleData>
+		<SimpleData name="ncia">Em frenta Ã  antena de transmissÃ£o de telefonia celular prÃ³ximo Ã  PraÃ§a no bairro do Clima Bom</SimpleData>
+		<SimpleData name="o2">11/8/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.77842,-9.58241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_59</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na entrada da Choparia Veneza, no Conj Osman Loureiro</SimpleData>
+		<SimpleData name="Latitude">-9.578606</SimpleData>
+		<SimpleData name="Longitude">-35.781369</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conj Osman Loureiro, Qd B/3, Casa 22, no bairro do Tabuleiro dos Martins</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/9/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Na entrada da Choparia Veneza, no Conj Osman Loureiro</SimpleData>
+		<SimpleData name="o2">11/9/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.781369,-9.578606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_63</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.5904025</SimpleData>
+		<SimpleData name="Longitude">-35.771825</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Na entrada do Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/14/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/14/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.771825,-9.5904025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_64</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.591003</SimpleData>
+		<SimpleData name="Longitude">-35.772532</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/9/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/9/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.772532,-9.591003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_65</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.590582</SimpleData>
+		<SimpleData name="Longitude">-35.772784</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/15/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="O">REGISTRO ABERTO, NÃO TEM ÁGUA</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/15/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.772784,-9.590582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_66</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.591432</SimpleData>
+		<SimpleData name="Longitude">-35.774134</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/13/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/13/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.774134,-9.591432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_67</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.591467</SimpleData>
+		<SimpleData name="Longitude">-35.772969</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/12/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/12/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.772969,-9.591467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_68</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Latitude">-9.591843</SimpleData>
+		<SimpleData name="Longitude">-35.773676</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/10/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">No Conj Medeiros Neto, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="o2">11/10/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.773676,-9.591843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_71</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na entrada do bairro da Santa LÃºcia, dentro do Cond GalÃ¡pagos</SimpleData>
+		<SimpleData name="Latitude">-9.58384</SimpleData>
+		<SimpleData name="Longitude">-35.76401</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Belmiro Amorim, Cond GalÃ¡pagos, no bairro da Santa AmÃ©lia</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">56883</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na entrada do bairro da Santa LÃºcia, dentro do Cond GalÃ¡pagos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.76401,-9.58384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_73</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Por trÃ¡s do Hospital Santa Casa de MisericÃ³rdia no bairro do Centro</SimpleData>
+		<SimpleData name="Latitude">-9.66836</SimpleData>
+		<SimpleData name="Longitude">-35.7412</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Pedro Monteiro, esquina com a Rua BarÃ£o de MaceiÃ³, no bairro do Centro</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">4635</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/3/2023</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">HIDRANTE REALIZADO MANUTENÇÃO, falta medir e pintar</SimpleData>
+		<SimpleData name="O">HIDRANTE REALIZADO MANUTENÇÃO, falta medir e pintar</SimpleData>
+		<SimpleData name="ncia">Por trÃ¡s do Hospital Santa Casa de MisericÃ³rdia no bairro do Centro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7412,-9.66836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_74</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada da PraÃ§a Deodoro, no bairro do Centro</SimpleData>
+		<SimpleData name="Latitude">-9.664596</SimpleData>
+		<SimpleData name="Longitude">-35.741482</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua BarÃ£o de Alagoas, em frente ao Teatro Deodoro, no bairro do Centro</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">53567</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada da PraÃ§a Deodoro, no bairro do Centro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.741482,-9.664596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_75</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao Edf BrÃªda, no bairro do Centro</SimpleData>
+		<SimpleData name="Latitude">-9.665149</SimpleData>
+		<SimpleData name="Longitude">-35.73813</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Nos fundos da Igreja do Livramento, no bairro do Centro</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/2/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Em frente ao Edf BrÃªda, no bairro do Centro</SimpleData>
+		<SimpleData name="o2">11/2/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.73813,-9.665149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_76</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo Ã€ Igreja Monsenhor Luiz Barbosa, esquina com a Rua do ComÃ©rcio</SimpleData>
+		<SimpleData name="Latitude">-9.663347</SimpleData>
+		<SimpleData name="Longitude">-35.737685</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Moreira e Lima, no bairro do Centro</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">10/29/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo Ã€ Igreja Monsenhor Luiz Barbosa, esquina com a Rua do ComÃ©rcio</SimpleData>
+		<SimpleData name="o2">10/29/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.737685,-9.663347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_78</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Ao lado da EMBRATEL, no bairro do Farol</SimpleData>
+		<SimpleData name="Latitude">-9.658117</SimpleData>
+		<SimpleData name="Longitude">-35.735975</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Santa Cruz, esquina com a av Moreira e Silva, no bairro do Farol</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/3/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">Ao lado da EMBRATEL, no bairro do Farol</SimpleData>
+		<SimpleData name="o2">11/3/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.735975,-9.658117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_82</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo ao Disk RÃ¡pido e Ã  Igreja CatÃ³lica no bairro da Serraria</SimpleData>
+		<SimpleData name="Latitude">-9.60155</SimpleData>
+		<SimpleData name="Longitude">-35.71793</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Roberval Montenegro do Nascimento, na esquina da pista nova do Conj JosÃ© TenÃ³rio</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">5545</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo ao Disk RÃ¡pido e Ã  Igreja CatÃ³lica no bairro da Serraria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.71793,-9.60155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_83</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Por trÃ¡s do FÃ³rum da JustiÃ§a Federal, no bairro da Serraria</SimpleData>
+		<SimpleData name="Latitude">-9.602977</SimpleData>
+		<SimpleData name="Longitude">-35.71897</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Conj JosÃ© TenÃ³rio, no bairro da serraria</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/16/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Por trÃ¡s do FÃ³rum da JustiÃ§a Federal, no bairro da Serraria</SimpleData>
+		<SimpleData name="o2">11/16/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.71897,-9.602977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_84</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">PrÃ³ximo ao Residencial JosÃ© Bernardes, em frente Ã  ChÃ¡cara Bola, na Serraria</SimpleData>
+		<SimpleData name="Latitude">-9.596919</SimpleData>
+		<SimpleData name="Longitude">-35.7228813</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Menino Marcelo, na entrada da ChÃ¡cara Bola, no bairro da Serraria</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/21/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="O">Caixa de registro DANIFICADO</SimpleData>
+		<SimpleData name="ncia">PrÃ³ximo ao Residencial JosÃ© Bernardes, em frente Ã  ChÃ¡cara Bola, na Serraria</SimpleData>
+		<SimpleData name="o2">11/21/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7228813,-9.596919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_86</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao Residencial Spring Ville, na rua da Churrascaria FeijÃ£o Verde</SimpleData>
+		<SimpleData name="Latitude">-9.586617</SimpleData>
+		<SimpleData name="Longitude">-35.733622</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Padre CÃ­cero, no bairro do Antares</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">5883</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Em frente ao Residencial Spring Ville, na rua da Churrascaria FeijÃ£o Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.733622,-9.586617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_88</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao CemitÃ©rio da NSÂª da Piedade, esquina com a Rua CearÃ¡, no Prado</SimpleData>
+		<SimpleData name="Latitude">-9.668444</SimpleData>
+		<SimpleData name="Longitude">-35.747015</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Siqueira Campos, no bairro do Prado</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/6/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">467</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/10/2023</SimpleData>
+		<SimpleData name="PINTURA">FALTA PINTURA</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="O">Caixa de registro inexistente</SimpleData>
+		<SimpleData name="ncia">Em frente ao CemitÃ©rio da NSÂª da Piedade, esquina com a Rua CearÃ¡, no Prado</SimpleData>
+		<SimpleData name="o2">11/6/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.747015,-9.668444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_90</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.605</SimpleData>
+		<SimpleData name="Longitude">-35.68289</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">512</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68289,-9.605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_91</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60469</SimpleData>
+		<SimpleData name="Longitude">-35.68313</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">3667</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68313,-9.60469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_92</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60358</SimpleData>
+		<SimpleData name="Longitude">-35.68219</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">33683</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68219,-9.60358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_93</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60397</SimpleData>
+		<SimpleData name="Longitude">-35.68488</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">86667</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68488,-9.60397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_94</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60338</SimpleData>
+		<SimpleData name="Longitude">-35.68482</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">416</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68482,-9.60338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_95</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60297</SimpleData>
+		<SimpleData name="Longitude">-35.68429</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">347</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68429,-9.60297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_96</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60267</SimpleData>
+		<SimpleData name="Longitude">-35.68424</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">300</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68424,-9.60267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_97</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Latitude">-9.60131</SimpleData>
+		<SimpleData name="Longitude">-35.68469</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">AL 101 Norte, no bairro de Guaxuma</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">271</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Cond Ocean View, no bairro de Guaxuma</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.68469,-9.60131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_100</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">ApÃ³s a antiga Cofal, a 1Âº rua Ã  direita e a Ãºltima Ã€ esquerda, Farol</SimpleData>
+		<SimpleData name="Latitude">-9.64159</SimpleData>
+		<SimpleData name="Longitude">-35.7332383</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Dr Santinho Coutinho com a rua Hugo Jobim, no bairro do Farol</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/8/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO LOCALIZADO</SimpleData>
+		<SimpleData name="O">REGISTRO LOCALIZADO</SimpleData>
+		<SimpleData name="ncia">ApÃ³s a antiga Cofal, a 1Âº rua Ã  direita e a Ãºltima Ã€ esquerda, Farol</SimpleData>
+		<SimpleData name="o2">11/8/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7332383,-9.64159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_103</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calÃ§ada ao lado do Museu TÃ©o BrandÃ£o</SimpleData>
+		<SimpleData name="Latitude">-9.669507</SimpleData>
+		<SimpleData name="Longitude">-35.732932</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av da Paz no bairro do Centro</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">1375</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calÃ§ada ao lado do Museu TÃ©o BrandÃ£o</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.732932,-9.669507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_109</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">No canteiro central, em frente ao Cond Vale do Sol, apÃ³s a Academia de VigilÃ¢ncia ForÃ§a no bairro do Cambona</SimpleData>
+		<SimpleData name="Latitude">-9.65315</SimpleData>
+		<SimpleData name="Longitude">-35.73779</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Leste Oeste, no bairro da Cambona</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">4585</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">No canteiro central, em frente ao Cond Vale do Sol, apÃ³s a Academia de VigilÃ¢ncia ForÃ§a no bairro do Cambona</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.73779,-9.65315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_110</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Rua do Banco ItaÃº, no Farol</SimpleData>
+		<SimpleData name="Latitude">-9.63747</SimpleData>
+		<SimpleData name="Longitude">-35.736575</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Cel Lima Rocha, no Bairro do Farol</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/8/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Rua do Banco ItaÃº, no Farol</SimpleData>
+		<SimpleData name="o2">11/8/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.736575,-9.63747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_111</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Quartel do Comando-Geral do Corpo de Bombeiros</SimpleData>
+		<SimpleData name="Latitude">-9.67182</SimpleData>
+		<SimpleData name="Longitude">-35.75544</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Siqueira Campos S/N, no bairro do Trapiche</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">365</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Quartel do Comando-Geral do Corpo de Bombeiros</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.75544,-9.67182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_113</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Residencial Monte Verde, no bairro do Conj Henrique Equelman, no bairro da Serraria</SimpleData>
+		<SimpleData name="Latitude">-9.57571</SimpleData>
+		<SimpleData name="Longitude">-35.73544</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av Menino Marcelo, no bairro da Serraria</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">3005</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Residencial Monte Verde, no bairro do Conj Henrique Equelman, no bairro da Serraria</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.73544,-9.57571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_114</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol</SimpleData>
+		<SimpleData name="Latitude">-9.65238</SimpleData>
+		<SimpleData name="Longitude">-35.73122</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">29833</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.73122,-9.65238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_115</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol</SimpleData>
+		<SimpleData name="Latitude">-9.653766</SimpleData>
+		<SimpleData name="Longitude">-35.731301</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">33817</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.731301,-9.653766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_116</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Praça do Monte Verde 1</SimpleData>
+		<SimpleData name="Latitude">-9.5770594</SimpleData>
+		<SimpleData name="Longitude">-35.7363434</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Q. I Lot Monte Verde, 29 - Lot Monte Verde, Maceió - AL, 57048-038</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">477</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Praça do Monte Verde 1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7363434,-9.5770594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_117</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Residêncial Monte Verde</SimpleData>
+		<SimpleData name="Latitude">-9.5756138</SimpleData>
+		<SimpleData name="Longitude">-35.7342713</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">47733</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Residêncial Monte Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7342713,-9.5756138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_118</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Dentro do Residêncial Monte Verde</SimpleData>
+		<SimpleData name="Latitude">-9.5762574</SimpleData>
+		<SimpleData name="Longitude">-35.7334244</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">38867</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Dentro do Residêncial Monte Verde</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7334244,-9.5762574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_119</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Perto do Studio Tagly</SimpleData>
+		<SimpleData name="Latitude">-9.5738393</SimpleData>
+		<SimpleData name="Longitude">-35.7327434</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Daniel Machado da Silva, 78 - Antares, Maceió - AL, 57048-045</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">124283</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO B</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Perto do Studio Tagly</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.7327434,-9.5738393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_120</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada da Anima Kids</SimpleData>
+		<SimpleData name="Latitude">-9.579472</SimpleData>
+		<SimpleData name="Longitude">-35.736139</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Menino Marcelo, 8 - Barro Duro, Maceió - AL, 57081-385</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">1205</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calçada da Anima Kids</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.736139,-9.579472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_124</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Perto da Praça Nossa Senhora das Graças</SimpleData>
+		<SimpleData name="Latitude">-9.571972</SimpleData>
+		<SimpleData name="Longitude">-35.708778</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Benedito Bentes, Maceió - AL</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">9895</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Perto da Praça Nossa Senhora das Graças</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.708778,-9.571972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_125</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">CMEI Prof. Silvânio Barbosa dos Santos</SimpleData>
+		<SimpleData name="Latitude">-9.580722</SimpleData>
+		<SimpleData name="Longitude">-35.705306</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Jacarecica, Maceió</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">46667</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">CMEI Prof. Silvânio Barbosa dos Santos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.705306,-9.580722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_126</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Esquina com Av. Geraldo Sampaio</SimpleData>
+		<SimpleData name="Latitude">-9.577778</SimpleData>
+		<SimpleData name="Longitude">-35.701667</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Genilda da Silva Porto - Jacarecica, Maceió - AL, 57032-032</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">26117</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Esquina com Av. Geraldo Sampaio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.701667,-9.577778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_127</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Por trás da Solara</SimpleData>
+		<SimpleData name="Latitude">-9.547639</SimpleData>
+		<SimpleData name="Longitude">-35.758528</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Village Campestre II - Rua: Ministro Lindolfo Collor, 52 - QD 03 - Cidade Universitária, Maceió - AL, 57073-417</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">48983</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Por trás da Solara</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.758528,-9.547639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_128</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao condomínio Costas dos Corais</SimpleData>
+		<SimpleData name="Latitude">-9.529944</SimpleData>
+		<SimpleData name="Longitude">-35.608389</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Ipioca, Maceió - AL, 57039-705</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">4217</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Em frente ao condomínio Costas dos Corais</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.608389,-9.529944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_129</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Esquina com Água de Coco Cocomar</SimpleData>
+		<SimpleData name="Latitude">-9.595212</SimpleData>
+		<SimpleData name="Longitude">-35.722337</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Antônio Joaquim de Moura, 16 - Serraria, Maceió - AL, 57046-045</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/17/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Esquina com Água de Coco Cocomar</SimpleData>
+		<SimpleData name="o2">11/17/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.722337,-9.595212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_130</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Supermercado Palato</SimpleData>
+		<SimpleData name="Latitude">-9.645804</SimpleData>
+		<SimpleData name="Longitude">-35.734191</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Fernandes Lima, 5010-5150 - Farol, Maceió - AL</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/1/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="O">REGISTRO DANIFICADO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Supermercado Palato</SimpleData>
+		<SimpleData name="o2">11/1/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.734191,-9.645804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_131</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao mercadinho Baratotal</SimpleData>
+		<SimpleData name="Latitude">-9.638966</SimpleData>
+		<SimpleData name="Longitude">-35.731975</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Martins Murta, 275 A - Farol, Maceió - AL, 57052-290</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/13/2023</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">5361</SimpleData>
+		<SimpleData name="DATA_MEDI____O">11/23/2023</SimpleData>
+		<SimpleData name="PINTURA">FALTA PINTURA</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">REGISTRO LOCALIZADO (TROCAR TAMPAS) </SimpleData>
+		<SimpleData name="O">REGISTRO LOCALIZADO (TROCAR TAMPAS)</SimpleData>
+		<SimpleData name="ncia">Em frente ao mercadinho Baratotal</SimpleData>
+		<SimpleData name="o2">11/13/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.731975,-9.638966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_134</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Em frente ao posto BR</SimpleData>
+		<SimpleData name="Latitude">-9.583624</SimpleData>
+		<SimpleData name="Longitude">-35.764969</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">BR-104, 7472-7572 - Tabuleiro do Martins, Maceió - AL</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">24317</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO, falta tampa frontal</SimpleData>
+		<SimpleData name="O">PINTADO, falta tampa frontal</SimpleData>
+		<SimpleData name="ncia">Em frente ao posto BR</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.764969,-9.583624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_135</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Satuba</SimpleData>
+		<SimpleData name="Latitude">-9.5401537</SimpleData>
+		<SimpleData name="Longitude">-35.8116019</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Nove Ltm Terra De Utinga, 30 - Margarida Procópio, Satuba - AL, 57100-000</SimpleData>
+		<SimpleData name="Cidade">Satuba</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">14467</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Satuba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.8116019,-9.5401537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_136</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Ouro Preto</SimpleData>
+		<SimpleData name="Latitude">-9.600943</SimpleData>
+		<SimpleData name="Longitude">-35.730548</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Manoel Macena - Ouro Preto, Maceió - AL</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">99083</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Ouro Preto</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.730548,-9.600943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_137</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Hotel Enseada</SimpleData>
+		<SimpleData name="Latitude">-9.672056</SimpleData>
+		<SimpleData name="Longitude">-35.716333</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Dr. Antônio Gouveia, 116-242 - Pajuçara, Maceió - AL, 57030-170</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">76833</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Hotel Enseada</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.716333,-9.672056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_138</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada em frente ao Sal e Brasa no bairro da Cruz das Almas</SimpleData>
+		<SimpleData name="Latitude">-9.637755</SimpleData>
+		<SimpleData name="Longitude">-35.698297</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Prof. Ernâni de Figueiredo Magalhães, 33 - Cruz das Almas, Maceió - AL, 57038-150</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">39467</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calçada em frente ao Sal e Brasa no bairro da Cruz das Almas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.698297,-9.637755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_139</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada em frente a residencia de número 39</SimpleData>
+		<SimpleData name="Latitude">-9.666778</SimpleData>
+		<SimpleData name="Longitude">-35.714639</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Quintino Bocaiúva, 39 - Pajuçara, Maceió - AL, 57030-005</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">17667</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Na calçada em frente a residencia de número 39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.714639,-9.666778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_140</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Condomínio Bosque das Ubaias</SimpleData>
+		<SimpleData name="Latitude">-9.561972</SimpleData>
+		<SimpleData name="Longitude">-35.734722</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. São Caetano, 175 - Bl 08, Ap 104 - Benedito Bentes, Maceió - AL, 57084-079</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">74433</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Condomínio Bosque das Ubaias</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.734722,-9.561972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_141</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na esquina do Condomínio Bosque das Palmeiras</SimpleData>
+		<SimpleData name="Latitude">-9.559852</SimpleData>
+		<SimpleData name="Longitude">-35.736849</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Geraldo Bulhões - Benedito Bentes, Maceió - AL, 57085-060</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">10405</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO B</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na esquina do Condomínio Bosque das Palmeiras</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.736849,-9.559852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_143</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na esquina da rua Roberval M. do Nascimento</SimpleData>
+		<SimpleData name="Latitude">-9.602963</SimpleData>
+		<SimpleData name="Longitude">-35.720278</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. C, 156 - Serraria, Maceió - AL, 57046-773</SimpleData>
+		<SimpleData name="Manuten____o">OK </SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="Data_Manuten____o">11/14/2023</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Caixa de registro danificado</SimpleData>
+		<SimpleData name="O">Caixa de registro danificado</SimpleData>
+		<SimpleData name="ncia">Na esquina da rua Roberval M. do Nascimento</SimpleData>
+		<SimpleData name="o2">11/14/2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.720278,-9.602963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_144</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Do lado da QG FARMA</SimpleData>
+		<SimpleData name="Latitude">-9.570047</SimpleData>
+		<SimpleData name="Longitude">-35.70407</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Caetés - Benedito Bentes, Maceió - AL</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">90717</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">PINTADO</SimpleData>
+		<SimpleData name="O">PINTADO</SimpleData>
+		<SimpleData name="ncia">Do lado da QG FARMA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.70407,-9.570047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_145</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Condomínio Recanto das Palmeiras</SimpleData>
+		<SimpleData name="Latitude">-9.539492</SimpleData>
+		<SimpleData name="Longitude">-35.814496</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Em Projeto, Satuba - AL, 57120-000</SimpleData>
+		<SimpleData name="Cidade">Satuba</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">9655</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Condomínio Recanto das Palmeiras</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.814496,-9.539492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_146</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Condomínio Recanto dos Vales</SimpleData>
+		<SimpleData name="Latitude">-9.550083</SimpleData>
+		<SimpleData name="Longitude">-35.81064</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Av. Em Projeto, Satuba - AL, 57120-000</SimpleData>
+		<SimpleData name="Cidade">Satuba</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">70167</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Condomínio Recanto dos Vales</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.81064,-9.550083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_147</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada da praça do Loteamento Cidade Jardim</SimpleData>
+		<SimpleData name="Latitude">-9.58804</SimpleData>
+		<SimpleData name="Longitude">-35.946611</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Pilar - AL, 57150-000</SimpleData>
+		<SimpleData name="Cidade">Pilar</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">621</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada da praça do Loteamento Cidade Jardim</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.946611,-9.58804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_149</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Reservatório do Conj. Hab. Benedito Cavalcante de Barros</SimpleData>
+		<SimpleData name="Latitude">-9.58339</SimpleData>
+		<SimpleData name="Longitude">-35.96279</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Pilar - AL, 57150-000</SimpleData>
+		<SimpleData name="Cidade">Pilar</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">63317</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Reservatório do Conj. Hab. Benedito Cavalcante de Barros</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.96279,-9.58339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_150</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Reservatórrio Jardim Royal 2</SimpleData>
+		<SimpleData name="Latitude">-9.533819</SimpleData>
+		<SimpleData name="Longitude">-35.77918</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Dr. Juraci Pereira, 82 - Cidade Universitária, Maceió - AL</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">72467</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Reservatórrio Jardim Royal 2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.77918,-9.533819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_151</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada oposta a loja Imperial Bolos</SimpleData>
+		<SimpleData name="Latitude">-9.304845</SimpleData>
+		<SimpleData name="Longitude">-35.942065</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Murici - AL, 57820-000</SimpleData>
+		<SimpleData name="Cidade">Murici</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">48067</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada oposta a loja Imperial Bolos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.942065,-9.304845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_157</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Reservatório RESE-BM-04</SimpleData>
+		<SimpleData name="Latitude">-9.821648</SimpleData>
+		<SimpleData name="Longitude">-35.928899</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">Conjunto Alto da Barra, Barra de São Miguel - AL, 57180-000</SimpleData>
+		<SimpleData name="Cidade">Barra de São Miguel</SimpleData>
+		<SimpleData name="VAZ__O_L_min_">89267</SimpleData>
+		<SimpleData name="PINTURA">OK</SimpleData>
+		<SimpleData name="COR">TIPO C</SimpleData>
+		<SimpleData name="OBSERVA____O">MEDIDO</SimpleData>
+		<SimpleData name="O">MEDIDO</SimpleData>
+		<SimpleData name="ncia">Na calçada do Reservatório RESE-BM-04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.928899,-9.821648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hidrante_160</name>
+	<ExtendedData><SchemaData schemaUrl="#Hid_Operante">
+		<SimpleData name="Ponto_de_refer__ncia">Na calçada do Reservatório Rio Novo</SimpleData>
+		<SimpleData name="Latitude">-9.571409</SimpleData>
+		<SimpleData name="Longitude">-35.809797</SimpleData>
+		<SimpleData name="Situaa____o">OPERANTE</SimpleData>
+		<SimpleData name="Localiza____o">R. Boa Vista - Rio Novo, Maceió - AL, 57070-530</SimpleData>
+		<SimpleData name="Cidade">Maceió</SimpleData>
+		<SimpleData name="COR">NÃO MEDIDO</SimpleData>
+		<SimpleData name="OBSERVA____O">Conexão frontal com defeito, não consegue acoplar o equipamento de medição</SimpleData>
+		<SimpleData name="O">Conexão frontal com defeito, não consegue acoplar o equipamento de medição</SimpleData>
+		<SimpleData name="ncia">Na calçada do Reservatório Rio Novo</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-35.809797,-9.571409</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
