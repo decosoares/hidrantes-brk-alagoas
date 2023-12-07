@@ -5,7 +5,7 @@
     <Style id="normalState">
       <IconStyle>        
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://decosoares.github.io/hidrantes-brk-alagoas/icons8-hidrante-48.png</href>
         </Icon>
         <scale>1.1</scale>
       </IconStyle>
@@ -17,7 +17,7 @@
     <Style id="highlightState">
       <IconStyle>        
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>https://decosoares.github.io/hidrantes-brk-alagoas/icons8-hidrante-48.png</href>
         </Icon>
         <scale>1.1</scale>
       </IconStyle>
