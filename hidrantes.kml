@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>HIDRANTES_OPERANTES</name>
-    <Style id="icon-1703-0F9D58-normal">
+    <Style id="normalState">
       <IconStyle>        
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -14,7 +14,7 @@
         <scale>1.1</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1703-0F9D58-highlight">
+    <Style id="highlightState">
       <IconStyle>        
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -26,20 +26,20 @@
         <scale>1.1</scale>
       </LabelStyle>
     </Style>
-    <StyleMap id="icon-1703-0F9D58">
+    <StyleMap id="styleMapExample">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1703-0F9D58-normal</styleUrl>
+        <styleUrl>#normalState</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1703-0F9D58-highlight</styleUrl>
+        <styleUrl>#highlightState</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>Hidrante_06</name>
       <description><![CDATA[description: Ponto de referência: Esquina do mercadinho e posto de gasolina, prÃ³ximo ao Quartel do Comando Geral do CBM/AL<br>Latitude: -9.671368<br>Longitude: -35.756318<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos, bairro do Trapiche da Barra<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/1/2023<br>VAZÃO(L/min): 44233<br>DATA MEDIÇÃO: 11/3/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente<br>Ponto de referência: Esquina do mercadinho e posto de gasolina, prÃ³ximo ao Quartel do Comando Geral do CBM/AL<br>Latitude: -9.671368<br>Longitude: -35.756318<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos, bairro do Trapiche da Barra<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/1/2023<br>VAZÃO(L/min): 44233.0<br>DATA MEDIÇÃO: 11/3/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Esquina do mercadinho e posto de gasolina, prÃ³ximo ao Quartel do Comando Geral do CBM/AL
@@ -105,7 +105,7 @@ OBSERVAÇÃO: Caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_07</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada da PraÃ§a Lions, no bairro da PajuÃ§ara<br>Latitude: -9.663025<br>Longitude: -35.709081<br>Situaação: OPERANTE<br>Localização: Rua Jangadeiros Alagoanos, bairro da PajuÃ§ara<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 14833<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calÃ§ada da PraÃ§a Lions, no bairro da PajuÃ§ara<br>Latitude: -9.663025<br>Longitude: -35.709081<br>Situaação: OPERANTE<br>Localização: Rua Jangadeiros Alagoanos, bairro da PajuÃ§ara<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 14833.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada da PraÃ§a Lions, no bairro da PajuÃ§ara
@@ -171,7 +171,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_08</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo Ã  sorveteria Bali, no bairro da PajuÃ§ara<br>Latitude: -9.66963<br>Longitude: -35.715<br>Situaação: OPERANTE<br>Localização: Av Dr Antonio Gouveia, esquina com a rua Lessa de Azevedo, bairro da PajuÃ§ara<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 55617<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: PrÃ³ximo Ã  sorveteria Bali, no bairro da PajuÃ§ara<br>Latitude: -9.66963<br>Longitude: -35.715<br>Situaação: OPERANTE<br>Localização: Av Dr Antonio Gouveia, esquina com a rua Lessa de Azevedo, bairro da PajuÃ§ara<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 55617.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo Ã  sorveteria Bali, no bairro da PajuÃ§ara
@@ -237,7 +237,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_11</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo ao antigo campo do CRB no bairro da PajuÃ§ara<br>Latitude: -9.668570000000001<br>Longitude: -35.716410000000003<br>Situaação: OPERANTE<br>Localização: Rua AraÃºjo Bivar com a rua Almirante Mascarenhas, bairro da PajuÃ§ara<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/7/2023<br>VAZÃO(L/min): 41667<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: Manutenção da caixa de registro<br>Ponto de referência: PrÃ³ximo ao antigo campo do CRB no bairro da PajuÃ§ara<br>Latitude: -9.668570000000001<br>Longitude: -35.716410000000003<br>Situaação: OPERANTE<br>Localização: Rua AraÃºjo Bivar com a rua Almirante Mascarenhas, bairro da PajuÃ§ara<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/7/2023<br>VAZÃO(L/min): 41667.0<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: Manutenção da caixa de registro]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo ao antigo campo do CRB no bairro da PajuÃ§ara
@@ -303,7 +303,7 @@ OBSERVAÇÃO: Manutenção da caixa de registro</value>
     <Placemark>
       <name>Hidrante_13</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo Ã  antiga lanchonete Bobs, por trÃ¡s do Banco ItaÃº, Ponta Verde<br>Latitude: -9.660836<br>Longitude: -35.697598<br>Situaação: OPERANTE<br>Localização: Rua Higia Vasconcelos, esquina com a Rubens Canuto, bairro da Ponta Verde<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 68267<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: PrÃ³ximo Ã  antiga lanchonete Bobs, por trÃ¡s do Banco ItaÃº, Ponta Verde<br>Latitude: -9.660836<br>Longitude: -35.697598<br>Situaação: OPERANTE<br>Localização: Rua Higia Vasconcelos, esquina com a Rubens Canuto, bairro da Ponta Verde<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 68267.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo Ã  antiga lanchonete Bobs, por trÃ¡s do Banco ItaÃº, Ponta Verde
@@ -369,7 +369,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_14</name>
       <description><![CDATA[description: Ponto de referência: Em frente Ã  GEAP, na calÃ§ada da lanchonete Tantan<br>Latitude: -9.656680000000000<br>Longitude: -35.707709999999999<br>Situaação: OPERANTE<br>Localização: Av Dep JosÃ© Lages, esquina com a rua JÃºlio Sawer, bairro da Ponta Verde<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/7/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado<br>Ponto de referência: Em frente Ã  GEAP, na calÃ§ada da lanchonete Tantan<br>Latitude: -9.656680000000000<br>Longitude: -35.707709999999999<br>Situaação: OPERANTE<br>Localização: Av Dep JosÃ© Lages, esquina com a rua JÃºlio Sawer, bairro da Ponta Verde<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/7/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente Ã  GEAP, na calÃ§ada da lanchonete Tantan
@@ -435,7 +435,7 @@ OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado</val
     <Placemark>
       <name>Hidrante_15</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo Ã  FarmÃ¡cia Permanente no bairro da Ponta Verde<br>Latitude: -9.656630000000000<br>Longitude: -35.702680000000001<br>Situaação: OPERANTE<br>Localização: Av Dep JosÃ© Lages, esquina com a rua Odilon Vasconcelos, bairro da Ponta Verde<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/5/2023<br>VAZÃO(L/min): 5485<br>DATA MEDIÇÃO: 11/6/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado<br>Ponto de referência: PrÃ³ximo Ã  FarmÃ¡cia Permanente no bairro da Ponta Verde<br>Latitude: -9.656630000000000<br>Longitude: -35.702680000000001<br>Situaação: OPERANTE<br>Localização: Av Dep JosÃ© Lages, esquina com a rua Odilon Vasconcelos, bairro da Ponta Verde<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/5/2023<br>VAZÃO(L/min): 5485.0<br>DATA MEDIÇÃO: 11/6/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo Ã  FarmÃ¡cia Permanente no bairro da Ponta Verde
@@ -501,7 +501,7 @@ OBSERVAÇÃO: Caixa de registro inexistente coberta, hidrante semienterrado</val
     <Placemark>
       <name>Hidrante_20</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo Ã  panificaÃ§Ã£o Lima e Rocha e ao CEPA, no bairro do Pinheiro<br>Latitude: -9.638700000000000<br>Longitude: -35.741889999999998<br>Situaação: OPERANTE<br>Localização: Rua Manoel Menezes, no bairro do Pinheiro<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Enterrado, caixa de registro inexistente<br>Ponto de referência: PrÃ³ximo Ã  panificaÃ§Ã£o Lima e Rocha e ao CEPA, no bairro do Pinheiro<br>Latitude: -9.638700000000000<br>Longitude: -35.741889999999998<br>Situaação: OPERANTE<br>Localização: Rua Manoel Menezes, no bairro do Pinheiro<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Enterrado, caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo Ã  panificaÃ§Ã£o Lima e Rocha e ao CEPA, no bairro do Pinheiro
@@ -567,7 +567,7 @@ OBSERVAÇÃO: Enterrado, caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_23</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada do Quartel do ExÃ©rcito, em frente ao Posto BR no Farol<br>Latitude: -9.631265<br>Longitude: -35.737015<br>Situaação: OPERANTE<br>Localização: Rua Cel. Murilo OtÃ¡vio de Barros, no bairro do Farol<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente<br>Ponto de referência: Na calÃ§ada do Quartel do ExÃ©rcito, em frente ao Posto BR no Farol<br>Latitude: -9.631265<br>Longitude: -35.737015<br>Situaação: OPERANTE<br>Localização: Rua Cel. Murilo OtÃ¡vio de Barros, no bairro do Farol<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada do Quartel do ExÃ©rcito, em frente ao Posto BR no Farol
@@ -633,7 +633,7 @@ OBSERVAÇÃO: Caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_24</name>
       <description><![CDATA[description: Ponto de referência: Ao lado do Hospital Veredas, no bairro do Farol<br>Latitude: -9.623207<br>Longitude: -35.735907<br>Situaação: OPERANTE<br>Localização: Rua Roberto Simonsen, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 24167<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Ao lado do Hospital Veredas, no bairro do Farol<br>Latitude: -9.623207<br>Longitude: -35.735907<br>Situaação: OPERANTE<br>Localização: Rua Roberto Simonsen, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 24167.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Ao lado do Hospital Veredas, no bairro do Farol
@@ -699,7 +699,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_25</name>
       <description><![CDATA[description: Ponto de referência: Em frente Ã  Unimed, no bairro do Farol<br>Latitude: -9.622441<br>Longitude: -35.738966<br>Situaação: OPERANTE<br>Localização: Av Fernandes Lima, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 639<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Em frente Ã  Unimed, no bairro do Farol<br>Latitude: -9.622441<br>Longitude: -35.738966<br>Situaação: OPERANTE<br>Localização: Av Fernandes Lima, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 639.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente Ã  Unimed, no bairro do Farol
@@ -765,7 +765,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_26</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao Arquivo Centrla da CASAL, no bairro do SanatÃ³rio<br>Latitude: -9.624898<br>Longitude: -35.742477<br>Situaação: OPERANTE<br>Localização: Travessa Silveira Camerino, uma rua apÃ³s a Unimed no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 63917<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Em frente ao Arquivo Centrla da CASAL, no bairro do SanatÃ³rio<br>Latitude: -9.624898<br>Longitude: -35.742477<br>Situaação: OPERANTE<br>Localização: Travessa Silveira Camerino, uma rua apÃ³s a Unimed no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 63917.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao Arquivo Centrla da CASAL, no bairro do SanatÃ³rio
@@ -831,7 +831,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_30</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada da Capitania dos Portos no bairro do JaraguÃ¡<br>Latitude: -9.669498<br>Longitude: -35.727617<br>Situaação: OPERANTE<br>Localização: Rua do Uruguai, esquina com a rua SilvÃ©rio Jorge, no bairro do JaraguÃ¡<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/22/2023<br>VAZÃO(L/min): 150<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: REGISTRO SUBSTITUÍDO<br>Ponto de referência: Na calÃ§ada da Capitania dos Portos no bairro do JaraguÃ¡<br>Latitude: -9.669498<br>Longitude: -35.727617<br>Situaação: OPERANTE<br>Localização: Rua do Uruguai, esquina com a rua SilvÃ©rio Jorge, no bairro do JaraguÃ¡<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/22/2023<br>VAZÃO(L/min): 150.0<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: REGISTRO SUBSTITUÍDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada da Capitania dos Portos no bairro do JaraguÃ¡
@@ -897,7 +897,7 @@ OBSERVAÇÃO: REGISTRO SUBSTITUÍDO</value>
     <Placemark>
       <name>Hidrante_31</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo ao moinho Motrisa e em frente ao CartÃ³rio no bairro do PoÃ§o<br>Latitude: -9.663110<br>Longitude: -35.723970<br>Situaação: OPERANTE<br>Localização: Av Comend LeÃ£o, no bairro do PoÃ§o<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 53483<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO, falta tampa frontal<br>Ponto de referência: PrÃ³ximo ao moinho Motrisa e em frente ao CartÃ³rio no bairro do PoÃ§o<br>Latitude: -9.663110<br>Longitude: -35.723970<br>Situaação: OPERANTE<br>Localização: Av Comend LeÃ£o, no bairro do PoÃ§o<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 53483.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO, falta tampa frontal]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo ao moinho Motrisa e em frente ao CartÃ³rio no bairro do PoÃ§o
@@ -963,7 +963,7 @@ OBSERVAÇÃO: PINTADO, falta tampa frontal</value>
     <Placemark>
       <name>Hidrante_32</name>
       <description><![CDATA[description: Ponto de referência: Na PraÃ§a da Bomba da Marieta, no bairro do PoÃ§o<br>Latitude: -9.65612<br>Longitude: -35.72302<br>Situaação: OPERANTE<br>Localização: Av Comend CalaÃ§a, no bairro do PoÃ§o<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 74033<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na PraÃ§a da Bomba da Marieta, no bairro do PoÃ§o<br>Latitude: -9.65612<br>Longitude: -35.72302<br>Situaação: OPERANTE<br>Localização: Av Comend CalaÃ§a, no bairro do PoÃ§o<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 74033.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na PraÃ§a da Bomba da Marieta, no bairro do PoÃ§o
@@ -1029,7 +1029,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_37</name>
       <description><![CDATA[description: Ponto de referência: Na entrada do Loteamento Parque do Feitosa, em frente ao Cond Bariloche<br>Latitude: -9.62975<br>Longitude: -35.71591<br>Situaação: OPERANTE<br>Localização: Av Juca Sampaio, no Bairro do Barro Duro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1985<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na entrada do Loteamento Parque do Feitosa, em frente ao Cond Bariloche<br>Latitude: -9.62975<br>Longitude: -35.71591<br>Situaação: OPERANTE<br>Localização: Av Juca Sampaio, no Bairro do Barro Duro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1985.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na entrada do Loteamento Parque do Feitosa, em frente ao Cond Bariloche
@@ -1095,7 +1095,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_44</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Oceanis, no bairro do SÃtio SÃ£o Jorge<br>Latitude: -9.610139<br>Longitude: -35.698528<br>Situaação: OPERANTE<br>Localização: Av JosÃ© Airton Gondin Lamenha, no Bairro do SÃtio SÃ£o Jorge<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 27017<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Oceanis, no bairro do SÃtio SÃ£o Jorge<br>Latitude: -9.610139<br>Longitude: -35.698528<br>Situaação: OPERANTE<br>Localização: Av JosÃ© Airton Gondin Lamenha, no Bairro do SÃtio SÃ£o Jorge<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 27017.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Oceanis, no bairro do SÃtio SÃ£o Jorge
@@ -1161,7 +1161,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_48</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo ao mercadinho SKOL e Ã  subestaÃ§Ã£o da EletrobrÃ¡s, rua sem saÃda<br>Latitude: -9.58013<br>Longitude: -35.77989<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 15033<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: PrÃ³ximo ao mercadinho SKOL e Ã  subestaÃ§Ã£o da EletrobrÃ¡s, rua sem saÃda<br>Latitude: -9.58013<br>Longitude: -35.77989<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 15033.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo ao mercadinho SKOL e Ã  subestaÃ§Ã£o da EletrobrÃ¡s, rua sem saÃda
@@ -1227,7 +1227,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_49</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada do bar Bom Gole e em frente Ã  PraÃ§a do Osman Loureiro<br>Latitude: -9.58013<br>Longitude: -35.77989<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 22767<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calÃ§ada do bar Bom Gole e em frente Ã  PraÃ§a do Osman Loureiro<br>Latitude: -9.58013<br>Longitude: -35.77989<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd D/3, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 22767.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada do bar Bom Gole e em frente Ã  PraÃ§a do Osman Loureiro
@@ -1293,7 +1293,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_50</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao DepÃ³sito de bebidas do Ãndio, prÃ³ximo ao SalÃ£o de Beleza Bello Studio, no Osman Loureiro<br>Latitude: -9.58092<br>Longitude: -35.7787<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd C/5, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 25767<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Em frente ao DepÃ³sito de bebidas do Ãndio, prÃ³ximo ao SalÃ£o de Beleza Bello Studio, no Osman Loureiro<br>Latitude: -9.58092<br>Longitude: -35.7787<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd C/5, no bairro do Tabuleiro dos Martins<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 25767.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao DepÃ³sito de bebidas do Ãndio, prÃ³ximo ao SalÃ£o de Beleza Bello Studio, no Osman Loureiro
@@ -1359,7 +1359,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_51</name>
       <description><![CDATA[description: Ponto de referência: Em frenta Ã  antena de transmissÃ£o de telefonia celular prÃ³ximo Ã  PraÃ§a no bairro do Clima Bom<br>Latitude: -9.58241<br>Longitude: -35.77842<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd C/6, no bairro do Tabuleiro dos Martins<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REALIZAR PINTURA<br>Ponto de referência: Em frenta Ã  antena de transmissÃ£o de telefonia celular prÃ³ximo Ã  PraÃ§a no bairro do Clima Bom<br>Latitude: -9.58241<br>Longitude: -35.77842<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd C/6, no bairro do Tabuleiro dos Martins<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REALIZAR PINTURA]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frenta Ã  antena de transmissÃ£o de telefonia celular prÃ³ximo Ã  PraÃ§a no bairro do Clima Bom
@@ -1425,7 +1425,7 @@ OBSERVAÇÃO: REALIZAR PINTURA</value>
     <Placemark>
       <name>Hidrante_59</name>
       <description><![CDATA[description: Ponto de referência: Na entrada da Choparia Veneza, no Conj Osman Loureiro<br>Latitude: -9.578606<br>Longitude: -35.781369<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd B/3, Casa 22, no bairro do Tabuleiro dos Martins<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: Na entrada da Choparia Veneza, no Conj Osman Loureiro<br>Latitude: -9.578606<br>Longitude: -35.781369<br>Situaação: OPERANTE<br>Localização: Conj Osman Loureiro, Qd B/3, Casa 22, no bairro do Tabuleiro dos Martins<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na entrada da Choparia Veneza, no Conj Osman Loureiro
@@ -1491,7 +1491,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_63</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.5904025<br>Longitude: -35.771825<br>Situaação: OPERANTE<br>Localização: Na entrada do Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/14/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.5904025<br>Longitude: -35.771825<br>Situaação: OPERANTE<br>Localização: Na entrada do Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/14/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1557,7 +1557,7 @@ OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA</value>
     <Placemark>
       <name>Hidrante_64</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591003<br>Longitude: -35.772532<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591003<br>Longitude: -35.772532<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/9/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1623,7 +1623,7 @@ OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA</value>
     <Placemark>
       <name>Hidrante_65</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.590582<br>Longitude: -35.772784<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/15/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.590582<br>Longitude: -35.772784<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/15/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1689,7 +1689,7 @@ OBSERVAÇÃO: REGISTRO ABERTO, NÃO TEM ÁGUA</value>
     <Placemark>
       <name>Hidrante_66</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591432<br>Longitude: -35.774134<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/13/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591432<br>Longitude: -35.774134<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/13/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1755,7 +1755,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_67</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591467<br>Longitude: -35.772969<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/12/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591467<br>Longitude: -35.772969<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/12/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1821,7 +1821,7 @@ OBSERVAÇÃO: Caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_68</name>
       <description><![CDATA[description: Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591843<br>Longitude: -35.773676<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/10/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Latitude: -9.591843<br>Longitude: -35.773676<br>Situaação: OPERANTE<br>Localização: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/10/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No Conj Medeiros Neto, no bairro da Santa AmÃ©lia
@@ -1887,7 +1887,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_71</name>
       <description><![CDATA[description: Ponto de referência: Na entrada do bairro da Santa LÃºcia, dentro do Cond GalÃ¡pagos<br>Latitude: -9.58384<br>Longitude: -35.76401<br>Situaação: OPERANTE<br>Localização: Av Belmiro Amorim, Cond GalÃ¡pagos, no bairro da Santa AmÃ©lia<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 56883<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na entrada do bairro da Santa LÃºcia, dentro do Cond GalÃ¡pagos<br>Latitude: -9.58384<br>Longitude: -35.76401<br>Situaação: OPERANTE<br>Localização: Av Belmiro Amorim, Cond GalÃ¡pagos, no bairro da Santa AmÃ©lia<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 56883.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na entrada do bairro da Santa LÃºcia, dentro do Cond GalÃ¡pagos
@@ -1953,7 +1953,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_73</name>
       <description><![CDATA[description: Ponto de referência: Por trÃ¡s do Hospital Santa Casa de MisericÃ³rdia no bairro do Centro<br>Latitude: -9.66836<br>Longitude: -35.7412<br>Situaação: OPERANTE<br>Localização: Rua Pedro Monteiro, esquina com a Rua BarÃ£o de MaceiÃ³, no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4635<br>DATA MEDIÇÃO: 11/3/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: HIDRANTE REALIZADO MANUTENÇÃO, falta medir e pintar<br>Ponto de referência: Por trÃ¡s do Hospital Santa Casa de MisericÃ³rdia no bairro do Centro<br>Latitude: -9.66836<br>Longitude: -35.7412<br>Situaação: OPERANTE<br>Localização: Rua Pedro Monteiro, esquina com a Rua BarÃ£o de MaceiÃ³, no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4635.0<br>DATA MEDIÇÃO: 11/3/2023<br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: HIDRANTE REALIZADO MANUTENÇÃO, falta medir e pintar]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Por trÃ¡s do Hospital Santa Casa de MisericÃ³rdia no bairro do Centro
@@ -2019,7 +2019,7 @@ OBSERVAÇÃO: HIDRANTE REALIZADO MANUTENÇÃO, falta medir e pintar</value>
     <Placemark>
       <name>Hidrante_74</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada da PraÃ§a Deodoro, no bairro do Centro<br>Latitude: -9.664596<br>Longitude: -35.741482<br>Situaação: OPERANTE<br>Localização: Rua BarÃ£o de Alagoas, em frente ao Teatro Deodoro, no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 53567<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calÃ§ada da PraÃ§a Deodoro, no bairro do Centro<br>Latitude: -9.664596<br>Longitude: -35.741482<br>Situaação: OPERANTE<br>Localização: Rua BarÃ£o de Alagoas, em frente ao Teatro Deodoro, no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 53567.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada da PraÃ§a Deodoro, no bairro do Centro
@@ -2085,7 +2085,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_75</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao Edf BrÃªda, no bairro do Centro<br>Latitude: -9.665149<br>Longitude: -35.738130<br>Situaação: OPERANTE<br>Localização: Nos fundos da Igreja do Livramento, no bairro do Centro<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/2/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: Em frente ao Edf BrÃªda, no bairro do Centro<br>Latitude: -9.665149<br>Longitude: -35.738130<br>Situaação: OPERANTE<br>Localização: Nos fundos da Igreja do Livramento, no bairro do Centro<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/2/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao Edf BrÃªda, no bairro do Centro
@@ -2151,7 +2151,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_76</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo Ã€ Igreja Monsenhor Luiz Barbosa, esquina com a Rua do ComÃ©rcio<br>Latitude: -9.663347<br>Longitude: -35.737685<br>Situaação: OPERANTE<br>Localização: Av Moreira e Lima, no bairro do Centro<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 10/29/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: PrÃ³ximo Ã€ Igreja Monsenhor Luiz Barbosa, esquina com a Rua do ComÃ©rcio<br>Latitude: -9.663347<br>Longitude: -35.737685<br>Situaação: OPERANTE<br>Localização: Av Moreira e Lima, no bairro do Centro<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 10/29/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo Ã€ Igreja Monsenhor Luiz Barbosa, esquina com a Rua do ComÃ©rcio
@@ -2217,7 +2217,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_78</name>
       <description><![CDATA[description: Ponto de referência: Ao lado da EMBRATEL, no bairro do Farol<br>Latitude: -9.658117<br>Longitude: -35.735975<br>Situaação: OPERANTE<br>Localização: Rua Santa Cruz, esquina com a av Moreira e Silva, no bairro do Farol<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/3/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente<br>Ponto de referência: Ao lado da EMBRATEL, no bairro do Farol<br>Latitude: -9.658117<br>Longitude: -35.735975<br>Situaação: OPERANTE<br>Localização: Rua Santa Cruz, esquina com a av Moreira e Silva, no bairro do Farol<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/3/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Ao lado da EMBRATEL, no bairro do Farol
@@ -2283,7 +2283,7 @@ OBSERVAÇÃO: Caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_82</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo ao Disk RÃ¡pido e Ã  Igreja CatÃ³lica no bairro da Serraria<br>Latitude: -9.60155<br>Longitude: -35.71793<br>Situaação: OPERANTE<br>Localização: Rua Roberval Montenegro do Nascimento, na esquina da pista nova do Conj JosÃ© TenÃ³rio<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 5545<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: PrÃ³ximo ao Disk RÃ¡pido e Ã  Igreja CatÃ³lica no bairro da Serraria<br>Latitude: -9.60155<br>Longitude: -35.71793<br>Situaação: OPERANTE<br>Localização: Rua Roberval Montenegro do Nascimento, na esquina da pista nova do Conj JosÃ© TenÃ³rio<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 5545.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo ao Disk RÃ¡pido e Ã  Igreja CatÃ³lica no bairro da Serraria
@@ -2349,7 +2349,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_83</name>
       <description><![CDATA[description: Ponto de referência: Por trÃ¡s do FÃ³rum da JustiÃ§a Federal, no bairro da Serraria<br>Latitude: -9.602977<br>Longitude: -35.718970<br>Situaação: OPERANTE<br>Localização: Av Conj JosÃ© TenÃ³rio, no bairro da serraria<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/16/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: Por trÃ¡s do FÃ³rum da JustiÃ§a Federal, no bairro da Serraria<br>Latitude: -9.602977<br>Longitude: -35.718970<br>Situaação: OPERANTE<br>Localização: Av Conj JosÃ© TenÃ³rio, no bairro da serraria<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/16/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Por trÃ¡s do FÃ³rum da JustiÃ§a Federal, no bairro da Serraria
@@ -2415,7 +2415,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_84</name>
       <description><![CDATA[description: Ponto de referência: PrÃ³ximo ao Residencial JosÃ© Bernardes, em frente Ã  ChÃ¡cara Bola, na Serraria<br>Latitude: -9.596919<br>Longitude: -35.7228813<br>Situaação: OPERANTE<br>Localização: Av Menino Marcelo, na entrada da ChÃ¡cara Bola, no bairro da Serraria<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/21/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO<br>Ponto de referência: PrÃ³ximo ao Residencial JosÃ© Bernardes, em frente Ã  ChÃ¡cara Bola, na Serraria<br>Latitude: -9.596919<br>Longitude: -35.7228813<br>Situaação: OPERANTE<br>Localização: Av Menino Marcelo, na entrada da ChÃ¡cara Bola, no bairro da Serraria<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/21/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: PrÃ³ximo ao Residencial JosÃ© Bernardes, em frente Ã  ChÃ¡cara Bola, na Serraria
@@ -2481,7 +2481,7 @@ OBSERVAÇÃO: Caixa de registro DANIFICADO</value>
     <Placemark>
       <name>Hidrante_86</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao Residencial Spring Ville, na rua da Churrascaria FeijÃ£o Verde<br>Latitude: -9.586617<br>Longitude: -35.733622<br>Situaação: OPERANTE<br>Localização: Rua Padre CÃcero, no bairro do Antares<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 5883<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Em frente ao Residencial Spring Ville, na rua da Churrascaria FeijÃ£o Verde<br>Latitude: -9.586617<br>Longitude: -35.733622<br>Situaação: OPERANTE<br>Localização: Rua Padre CÃcero, no bairro do Antares<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 5883.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao Residencial Spring Ville, na rua da Churrascaria FeijÃ£o Verde
@@ -2547,7 +2547,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_88</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao CemitÃ©rio da NSÂª da Piedade, esquina com a Rua CearÃ¡, no Prado<br>Latitude: -9.668444<br>Longitude: -35.747015<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos, no bairro do Prado<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/6/2023<br>VAZÃO(L/min): 467<br>DATA MEDIÇÃO: 11/10/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente<br>Ponto de referência: Em frente ao CemitÃ©rio da NSÂª da Piedade, esquina com a Rua CearÃ¡, no Prado<br>Latitude: -9.668444<br>Longitude: -35.747015<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos, no bairro do Prado<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/6/2023<br>VAZÃO(L/min): 467.0<br>DATA MEDIÇÃO: 11/10/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: Caixa de registro inexistente]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao CemitÃ©rio da NSÂª da Piedade, esquina com a Rua CearÃ¡, no Prado
@@ -2613,7 +2613,7 @@ OBSERVAÇÃO: Caixa de registro inexistente</value>
     <Placemark>
       <name>Hidrante_90</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.605<br>Longitude: -35.68289<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 512<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.605<br>Longitude: -35.68289<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 512.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -2679,7 +2679,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_91</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60469<br>Longitude: -35.68313<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 3667<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60469<br>Longitude: -35.68313<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 3667.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -2745,7 +2745,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_92</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60358<br>Longitude: -35.68219<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 33683<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60358<br>Longitude: -35.68219<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 33683.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -2811,7 +2811,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_93</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60397<br>Longitude: -35.68488<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 86667<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60397<br>Longitude: -35.68488<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 86667.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -2877,7 +2877,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_94</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60338<br>Longitude: -35.68482<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 416<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60338<br>Longitude: -35.68482<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 416.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -2943,7 +2943,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_95</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60297<br>Longitude: -35.68429<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 347<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60297<br>Longitude: -35.68429<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 347.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -3009,7 +3009,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_96</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60267<br>Longitude: -35.68424<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 300<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60267<br>Longitude: -35.68424<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 300.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -3075,7 +3075,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_97</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60131<br>Longitude: -35.68469<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 271<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma<br>Latitude: -9.60131<br>Longitude: -35.68469<br>Situaação: OPERANTE<br>Localização: AL 101 Norte, no bairro de Guaxuma<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 271.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Cond Ocean View, no bairro de Guaxuma
@@ -3141,7 +3141,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_100</name>
       <description><![CDATA[description: Ponto de referência: ApÃ³s a antiga Cofal, a 1Âº rua Ã  direita e a Ãºltima Ã€ esquerda, Farol<br>Latitude: -9.64159<br>Longitude: -35.7332383<br>Situaação: OPERANTE<br>Localização: Rua Dr Santinho Coutinho com a rua Hugo Jobim, no bairro do Farol<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO LOCALIZADO<br>Ponto de referência: ApÃ³s a antiga Cofal, a 1Âº rua Ã  direita e a Ãºltima Ã€ esquerda, Farol<br>Latitude: -9.64159<br>Longitude: -35.7332383<br>Situaação: OPERANTE<br>Localização: Rua Dr Santinho Coutinho com a rua Hugo Jobim, no bairro do Farol<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO LOCALIZADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: ApÃ³s a antiga Cofal, a 1Âº rua Ã  direita e a Ãºltima Ã€ esquerda, Farol
@@ -3207,7 +3207,7 @@ OBSERVAÇÃO: REGISTRO LOCALIZADO</value>
     <Placemark>
       <name>Hidrante_103</name>
       <description><![CDATA[description: Ponto de referência: Na calÃ§ada ao lado do Museu TÃ©o BrandÃ£o<br>Latitude: -9.669507<br>Longitude: -35.732932<br>Situaação: OPERANTE<br>Localização: Av da Paz no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1375<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calÃ§ada ao lado do Museu TÃ©o BrandÃ£o<br>Latitude: -9.669507<br>Longitude: -35.732932<br>Situaação: OPERANTE<br>Localização: Av da Paz no bairro do Centro<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1375.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calÃ§ada ao lado do Museu TÃ©o BrandÃ£o
@@ -3273,7 +3273,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_109</name>
       <description><![CDATA[description: Ponto de referência: No canteiro central, em frente ao Cond Vale do Sol, apÃ³s a Academia de VigilÃ¢ncia ForÃ§a no bairro do Cambona<br>Latitude: -9.65315<br>Longitude: -35.73779<br>Situaação: OPERANTE<br>Localização: Av Leste Oeste, no bairro da Cambona<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4585<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: No canteiro central, em frente ao Cond Vale do Sol, apÃ³s a Academia de VigilÃ¢ncia ForÃ§a no bairro do Cambona<br>Latitude: -9.65315<br>Longitude: -35.73779<br>Situaação: OPERANTE<br>Localização: Av Leste Oeste, no bairro da Cambona<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4585.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: No canteiro central, em frente ao Cond Vale do Sol, apÃ³s a Academia de VigilÃ¢ncia ForÃ§a no bairro do Cambona
@@ -3339,7 +3339,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_110</name>
       <description><![CDATA[description: Ponto de referência: Rua do Banco ItaÃº, no Farol<br>Latitude: -9.637470<br>Longitude: -35.736575<br>Situaação: OPERANTE<br>Localização: Rua Cel Lima Rocha, no Bairro do Farol<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO<br>Ponto de referência: Rua do Banco ItaÃº, no Farol<br>Latitude: -9.637470<br>Longitude: -35.736575<br>Situaação: OPERANTE<br>Localização: Rua Cel Lima Rocha, no Bairro do Farol<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/8/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Rua do Banco ItaÃº, no Farol
@@ -3405,7 +3405,7 @@ OBSERVAÇÃO: REGISTRO DANIFICADO</value>
     <Placemark>
       <name>Hidrante_111</name>
       <description><![CDATA[description: Ponto de referência: Quartel do Comando-Geral do Corpo de Bombeiros<br>Latitude: -9.67182<br>Longitude: -35.75544<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos S/N, no bairro do Trapiche<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 365<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Quartel do Comando-Geral do Corpo de Bombeiros<br>Latitude: -9.67182<br>Longitude: -35.75544<br>Situaação: OPERANTE<br>Localização: Av Siqueira Campos S/N, no bairro do Trapiche<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 365.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Quartel do Comando-Geral do Corpo de Bombeiros
@@ -3471,7 +3471,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_113</name>
       <description><![CDATA[description: Ponto de referência: Residencial Monte Verde, no bairro do Conj Henrique Equelman, no bairro da Serraria<br>Latitude: -9.57571<br>Longitude: -35.73544<br>Situaação: OPERANTE<br>Localização: Av Menino Marcelo, no bairro da Serraria<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 3005<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Residencial Monte Verde, no bairro do Conj Henrique Equelman, no bairro da Serraria<br>Latitude: -9.57571<br>Longitude: -35.73544<br>Situaação: OPERANTE<br>Localização: Av Menino Marcelo, no bairro da Serraria<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 3005.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Residencial Monte Verde, no bairro do Conj Henrique Equelman, no bairro da Serraria
@@ -3537,7 +3537,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_114</name>
       <description><![CDATA[description: Ponto de referência: Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol<br>Latitude: -9.65238<br>Longitude: -35.73122<br>Situaação: OPERANTE<br>Localização: Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 29833<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol<br>Latitude: -9.65238<br>Longitude: -35.73122<br>Situaação: OPERANTE<br>Localização: Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 29833.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Rua Joaquim Nabuco, esquina com a Rua StÂª Rita de CÃ¡ssia, no bairro do Farol
@@ -3603,7 +3603,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_115</name>
       <description><![CDATA[description: Ponto de referência: Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol<br>Latitude: -9.653766<br>Longitude: -35.731301<br>Situaação: OPERANTE<br>Localização: Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 33817<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol<br>Latitude: -9.653766<br>Longitude: -35.731301<br>Situaação: OPERANTE<br>Localização: Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 33817.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Rua princesa Isabel, esquina com a rua Joaquim Nabuco, no bairro do Farol
@@ -3669,7 +3669,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_116</name>
       <description><![CDATA[description: Ponto de referência: Praça do Monte Verde 1<br>Latitude: -9.5770594<br>Longitude: -35.7363434<br>Situaação: OPERANTE<br>Localização: Q. I Lot Monte Verde, 29 - Lot Monte Verde, Maceió - AL, 57048-038<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 477<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Praça do Monte Verde 1<br>Latitude: -9.5770594<br>Longitude: -35.7363434<br>Situaação: OPERANTE<br>Localização: Q. I Lot Monte Verde, 29 - Lot Monte Verde, Maceió - AL, 57048-038<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 477.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Praça do Monte Verde 1
@@ -3735,7 +3735,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_117</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Residêncial Monte Verde<br>Latitude: -9.5756138<br>Longitude: -35.7342713<br>Situaação: OPERANTE<br>Localização: R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 47733<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Residêncial Monte Verde<br>Latitude: -9.5756138<br>Longitude: -35.7342713<br>Situaação: OPERANTE<br>Localização: R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 47733.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Residêncial Monte Verde
@@ -3801,7 +3801,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_118</name>
       <description><![CDATA[description: Ponto de referência: Dentro do Residêncial Monte Verde<br>Latitude: -9.5762574<br>Longitude: -35.7334244<br>Situaação: OPERANTE<br>Localização: R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 38867<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Dentro do Residêncial Monte Verde<br>Latitude: -9.5762574<br>Longitude: -35.7334244<br>Situaação: OPERANTE<br>Localização: R. Maria Salete de Araújo Oliveira, 45 - Lot Monte Verde, Maceió - AL, 57048-042<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 38867.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Dentro do Residêncial Monte Verde
@@ -3867,7 +3867,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_119</name>
       <description><![CDATA[description: Ponto de referência: Perto do Studio Tagly<br>Latitude: -9.5738393<br>Longitude: -35.7327434<br>Situaação: OPERANTE<br>Localização: R. Daniel Machado da Silva, 78 - Antares, Maceió - AL, 57048-045<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 124283<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO B<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Perto do Studio Tagly<br>Latitude: -9.5738393<br>Longitude: -35.7327434<br>Situaação: OPERANTE<br>Localização: R. Daniel Machado da Silva, 78 - Antares, Maceió - AL, 57048-045<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 124283.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO B<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Perto do Studio Tagly
@@ -3933,7 +3933,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_120</name>
       <description><![CDATA[description: Ponto de referência: Na calçada da Anima Kids<br>Latitude: -9.579472<br>Longitude: -35.736139<br>Situaação: OPERANTE<br>Localização: Av. Menino Marcelo, 8 - Barro Duro, Maceió - AL, 57081-385<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1205<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calçada da Anima Kids<br>Latitude: -9.579472<br>Longitude: -35.736139<br>Situaação: OPERANTE<br>Localização: Av. Menino Marcelo, 8 - Barro Duro, Maceió - AL, 57081-385<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 1205.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada da Anima Kids
@@ -3999,7 +3999,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_124</name>
       <description><![CDATA[description: Ponto de referência: Perto da Praça Nossa Senhora das Graças<br>Latitude: -9.571972<br>Longitude: -35.708778<br>Situaação: OPERANTE<br>Localização: Benedito Bentes, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 9895<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Perto da Praça Nossa Senhora das Graças<br>Latitude: -9.571972<br>Longitude: -35.708778<br>Situaação: OPERANTE<br>Localização: Benedito Bentes, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 9895.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Perto da Praça Nossa Senhora das Graças
@@ -4065,7 +4065,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_125</name>
       <description><![CDATA[description: Ponto de referência: CMEI Prof. Silvânio Barbosa dos Santos<br>Latitude: -9.580722<br>Longitude: -35.705306<br>Situaação: OPERANTE<br>Localização: Jacarecica, Maceió<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 46667<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: CMEI Prof. Silvânio Barbosa dos Santos<br>Latitude: -9.580722<br>Longitude: -35.705306<br>Situaação: OPERANTE<br>Localização: Jacarecica, Maceió<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 46667.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: CMEI Prof. Silvânio Barbosa dos Santos
@@ -4131,7 +4131,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_126</name>
       <description><![CDATA[description: Ponto de referência: Esquina com Av. Geraldo Sampaio<br>Latitude: -9.577778<br>Longitude: -35.701667<br>Situaação: OPERANTE<br>Localização: R. Genilda da Silva Porto - Jacarecica, Maceió - AL, 57032-032<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 26117<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Esquina com Av. Geraldo Sampaio<br>Latitude: -9.577778<br>Longitude: -35.701667<br>Situaação: OPERANTE<br>Localização: R. Genilda da Silva Porto - Jacarecica, Maceió - AL, 57032-032<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 26117.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Esquina com Av. Geraldo Sampaio
@@ -4197,7 +4197,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_127</name>
       <description><![CDATA[description: Ponto de referência: Por trás da Solara<br>Latitude: -9.547639<br>Longitude: -35.758528<br>Situaação: OPERANTE<br>Localização: Village Campestre II - Rua: Ministro Lindolfo Collor, 52 - QD 03 - Cidade Universitária, Maceió - AL, 57073-417<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 48983<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Por trás da Solara<br>Latitude: -9.547639<br>Longitude: -35.758528<br>Situaação: OPERANTE<br>Localização: Village Campestre II - Rua: Ministro Lindolfo Collor, 52 - QD 03 - Cidade Universitária, Maceió - AL, 57073-417<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 48983.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Por trás da Solara
@@ -4263,7 +4263,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_128</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao condomínio Costas dos Corais<br>Latitude: -9.529944<br>Longitude: -35.608389<br>Situaação: OPERANTE<br>Localização: Ipioca, Maceió - AL, 57039-705<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4217<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Em frente ao condomínio Costas dos Corais<br>Latitude: -9.529944<br>Longitude: -35.608389<br>Situaação: OPERANTE<br>Localização: Ipioca, Maceió - AL, 57039-705<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 4217.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao condomínio Costas dos Corais
@@ -4329,7 +4329,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_129</name>
       <description><![CDATA[description: Ponto de referência: Esquina com Água de Coco Cocomar<br>Latitude: -9.595212<br>Longitude: -35.722337<br>Situaação: OPERANTE<br>Localização: R. Antônio Joaquim de Moura, 16 - Serraria, Maceió - AL, 57046-045<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/17/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO<br>Ponto de referência: Esquina com Água de Coco Cocomar<br>Latitude: -9.595212<br>Longitude: -35.722337<br>Situaação: OPERANTE<br>Localização: R. Antônio Joaquim de Moura, 16 - Serraria, Maceió - AL, 57046-045<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/17/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Esquina com Água de Coco Cocomar
@@ -4395,7 +4395,7 @@ OBSERVAÇÃO: REGISTRO DANIFICADO</value>
     <Placemark>
       <name>Hidrante_130</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Supermercado Palato<br>Latitude: -9.645804<br>Longitude: -35.734191<br>Situaação: OPERANTE<br>Localização: Av. Fernandes Lima, 5010-5150 - Farol, Maceió - AL<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/1/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO<br>Ponto de referência: Na calçada do Supermercado Palato<br>Latitude: -9.645804<br>Longitude: -35.734191<br>Situaação: OPERANTE<br>Localização: Av. Fernandes Lima, 5010-5150 - Farol, Maceió - AL<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/1/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: REGISTRO DANIFICADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Supermercado Palato
@@ -4461,7 +4461,7 @@ OBSERVAÇÃO: REGISTRO DANIFICADO</value>
     <Placemark>
       <name>Hidrante_131</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao mercadinho Baratotal<br>Latitude: -9.638966<br>Longitude: -35.731975<br>Situaação: OPERANTE<br>Localização: R. Martins Murta, 275 A - Farol, Maceió - AL, 57052-290<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/13/2023<br>VAZÃO(L/min): 5361<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: REGISTRO LOCALIZADO (TROCAR TAMPAS)<br>Ponto de referência: Em frente ao mercadinho Baratotal<br>Latitude: -9.638966<br>Longitude: -35.731975<br>Situaação: OPERANTE<br>Localização: R. Martins Murta, 275 A - Farol, Maceió - AL, 57052-290<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/13/2023<br>VAZÃO(L/min): 5361.0<br>DATA MEDIÇÃO: 11/23/2023<br>PINTURA: FALTA PINTURA<br>COR: TIPO C<br>OBSERVAÇÃO: REGISTRO LOCALIZADO (TROCAR TAMPAS)]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao mercadinho Baratotal
@@ -4527,7 +4527,7 @@ OBSERVAÇÃO: REGISTRO LOCALIZADO (TROCAR TAMPAS)</value>
     <Placemark>
       <name>Hidrante_134</name>
       <description><![CDATA[description: Ponto de referência: Em frente ao posto BR<br>Latitude: -9.583624<br>Longitude: -35.764969<br>Situaação: OPERANTE<br>Localização: BR-104, 7472-7572 - Tabuleiro do Martins, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 24317<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO, falta tampa frontal<br>Ponto de referência: Em frente ao posto BR<br>Latitude: -9.583624<br>Longitude: -35.764969<br>Situaação: OPERANTE<br>Localização: BR-104, 7472-7572 - Tabuleiro do Martins, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 24317.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO, falta tampa frontal]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Em frente ao posto BR
@@ -4593,7 +4593,7 @@ OBSERVAÇÃO: PINTADO, falta tampa frontal</value>
     <Placemark>
       <name>Hidrante_135</name>
       <description><![CDATA[description: Ponto de referência: Satuba<br>Latitude: -9.5401537<br>Longitude: -35.8116019<br>Situaação: OPERANTE<br>Localização: R. Nove Ltm Terra De Utinga, 30 - Margarida Procópio, Satuba - AL, 57100-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 14467<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Satuba<br>Latitude: -9.5401537<br>Longitude: -35.8116019<br>Situaação: OPERANTE<br>Localização: R. Nove Ltm Terra De Utinga, 30 - Margarida Procópio, Satuba - AL, 57100-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 14467.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Satuba
@@ -4659,7 +4659,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_136</name>
       <description><![CDATA[description: Ponto de referência: Ouro Preto<br>Latitude: -9.600943<br>Longitude: -35.730548<br>Situaação: OPERANTE<br>Localização: R. Manoel Macena - Ouro Preto, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 99083<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Ouro Preto<br>Latitude: -9.600943<br>Longitude: -35.730548<br>Situaação: OPERANTE<br>Localização: R. Manoel Macena - Ouro Preto, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 99083.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Ouro Preto
@@ -4725,7 +4725,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_137</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Hotel Enseada<br>Latitude: -9.672056<br>Longitude: -35.716333<br>Situaação: OPERANTE<br>Localização: Av. Dr. Antônio Gouveia, 116-242 - Pajuçara, Maceió - AL, 57030-170<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 76833<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calçada do Hotel Enseada<br>Latitude: -9.672056<br>Longitude: -35.716333<br>Situaação: OPERANTE<br>Localização: Av. Dr. Antônio Gouveia, 116-242 - Pajuçara, Maceió - AL, 57030-170<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 76833.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Hotel Enseada
@@ -4791,7 +4791,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_138</name>
       <description><![CDATA[description: Ponto de referência: Na calçada em frente ao Sal e Brasa no bairro da Cruz das Almas<br>Latitude: -9.637755<br>Longitude: -35.698297<br>Situaação: OPERANTE<br>Localização: R. Prof. Ernâni de Figueiredo Magalhães, 33 - Cruz das Almas, Maceió - AL, 57038-150<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 39467<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calçada em frente ao Sal e Brasa no bairro da Cruz das Almas<br>Latitude: -9.637755<br>Longitude: -35.698297<br>Situaação: OPERANTE<br>Localização: R. Prof. Ernâni de Figueiredo Magalhães, 33 - Cruz das Almas, Maceió - AL, 57038-150<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 39467.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada em frente ao Sal e Brasa no bairro da Cruz das Almas
@@ -4857,7 +4857,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_139</name>
       <description><![CDATA[description: Ponto de referência: Na calçada em frente a residencia de número 39<br>Latitude: -9.666778<br>Longitude: -35.714639<br>Situaação: OPERANTE<br>Localização: R. Quintino Bocaiúva, 39 - Pajuçara, Maceió - AL, 57030-005<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 17667<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Na calçada em frente a residencia de número 39<br>Latitude: -9.666778<br>Longitude: -35.714639<br>Situaação: OPERANTE<br>Localização: R. Quintino Bocaiúva, 39 - Pajuçara, Maceió - AL, 57030-005<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 17667.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada em frente a residencia de número 39
@@ -4923,7 +4923,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_140</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Condomínio Bosque das Ubaias<br>Latitude: -9.561972<br>Longitude: -35.734722<br>Situaação: OPERANTE<br>Localização: R. São Caetano, 175 - Bl 08, Ap 104 - Benedito Bentes, Maceió - AL, 57084-079<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 74433<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Condomínio Bosque das Ubaias<br>Latitude: -9.561972<br>Longitude: -35.734722<br>Situaação: OPERANTE<br>Localização: R. São Caetano, 175 - Bl 08, Ap 104 - Benedito Bentes, Maceió - AL, 57084-079<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 74433.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Condomínio Bosque das Ubaias
@@ -4989,7 +4989,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_141</name>
       <description><![CDATA[description: Ponto de referência: Na esquina do Condomínio Bosque das Palmeiras<br>Latitude: -9.559852<br>Longitude: -35.736849<br>Situaação: OPERANTE<br>Localização: Av. Geraldo Bulhões - Benedito Bentes, Maceió - AL, 57085-060<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 10405<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO B<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na esquina do Condomínio Bosque das Palmeiras<br>Latitude: -9.559852<br>Longitude: -35.736849<br>Situaação: OPERANTE<br>Localização: Av. Geraldo Bulhões - Benedito Bentes, Maceió - AL, 57085-060<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 10405.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO B<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na esquina do Condomínio Bosque das Palmeiras
@@ -5055,7 +5055,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_143</name>
       <description><![CDATA[description: Ponto de referência: Na esquina da rua Roberval M. do Nascimento<br>Latitude: -9.602963<br>Longitude: -35.720278<br>Situaação: OPERANTE<br>Localização: R. C, 156 - Serraria, Maceió - AL, 57046-773<br>Manutenção: OK <br>Cidade: Maceió<br>Data Manutenção: 11/14/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro danificado<br>Ponto de referência: Na esquina da rua Roberval M. do Nascimento<br>Latitude: -9.602963<br>Longitude: -35.720278<br>Situaação: OPERANTE<br>Localização: R. C, 156 - Serraria, Maceió - AL, 57046-773<br>Manutenção: OK<br>Cidade: Maceió<br>Data Manutenção: 11/14/2023<br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Caixa de registro danificado]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na esquina da rua Roberval M. do Nascimento
@@ -5121,7 +5121,7 @@ OBSERVAÇÃO: Caixa de registro danificado</value>
     <Placemark>
       <name>Hidrante_144</name>
       <description><![CDATA[description: Ponto de referência: Do lado da QG FARMA<br>Latitude: -9.570047<br>Longitude: -35.704070<br>Situaação: OPERANTE<br>Localização: Av. Caetés - Benedito Bentes, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 90717<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO<br>Ponto de referência: Do lado da QG FARMA<br>Latitude: -9.570047<br>Longitude: -35.704070<br>Situaação: OPERANTE<br>Localização: Av. Caetés - Benedito Bentes, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 90717.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: PINTADO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Do lado da QG FARMA
@@ -5187,7 +5187,7 @@ OBSERVAÇÃO: PINTADO</value>
     <Placemark>
       <name>Hidrante_145</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Condomínio Recanto das Palmeiras<br>Latitude: -9.539492<br>Longitude: -35.814496<br>Situaação: OPERANTE<br>Localização: Av. Em Projeto, Satuba - AL, 57120-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 9655<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Condomínio Recanto das Palmeiras<br>Latitude: -9.539492<br>Longitude: -35.814496<br>Situaação: OPERANTE<br>Localização: Av. Em Projeto, Satuba - AL, 57120-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 9655.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Condomínio Recanto das Palmeiras
@@ -5253,7 +5253,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_146</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Condomínio Recanto dos Vales<br>Latitude: -9.550083<br>Longitude: -35.810640<br>Situaação: OPERANTE<br>Localização: Av. Em Projeto, Satuba - AL, 57120-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 70167<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Condomínio Recanto dos Vales<br>Latitude: -9.550083<br>Longitude: -35.810640<br>Situaação: OPERANTE<br>Localização: Av. Em Projeto, Satuba - AL, 57120-000<br>Manutenção: <br>Cidade: Satuba<br>Data Manutenção: <br>VAZÃO(L/min): 70167.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Condomínio Recanto dos Vales
@@ -5319,7 +5319,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_147</name>
       <description><![CDATA[description: Ponto de referência: Na calçada da praça do Loteamento Cidade Jardim<br>Latitude: -9.588040<br>Longitude: -35.946611<br>Situaação: OPERANTE<br>Localização: Pilar - AL, 57150-000<br>Manutenção: <br>Cidade: Pilar<br>Data Manutenção: <br>VAZÃO(L/min): 621<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada da praça do Loteamento Cidade Jardim<br>Latitude: -9.588040<br>Longitude: -35.946611<br>Situaação: OPERANTE<br>Localização: Pilar - AL, 57150-000<br>Manutenção: <br>Cidade: Pilar<br>Data Manutenção: <br>VAZÃO(L/min): 621.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada da praça do Loteamento Cidade Jardim
@@ -5385,7 +5385,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_149</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Reservatório do Conj. Hab. Benedito Cavalcante de Barros<br>Latitude: -9.583390<br>Longitude: -35.962790<br>Situaação: OPERANTE<br>Localização: Pilar - AL, 57150-000<br>Manutenção: <br>Cidade: Pilar<br>Data Manutenção: <br>VAZÃO(L/min): 63317<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Reservatório do Conj. Hab. Benedito Cavalcante de Barros<br>Latitude: -9.583390<br>Longitude: -35.962790<br>Situaação: OPERANTE<br>Localização: Pilar - AL, 57150-000<br>Manutenção: <br>Cidade: Pilar<br>Data Manutenção: <br>VAZÃO(L/min): 63317.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Reservatório do Conj. Hab. Benedito Cavalcante de Barros
@@ -5451,7 +5451,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_150</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Reservatórrio Jardim Royal 2<br>Latitude: -9.533819<br>Longitude: -35.779180<br>Situaação: OPERANTE<br>Localização: R. Dr. Juraci Pereira, 82 - Cidade Universitária, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 72467<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Reservatórrio Jardim Royal 2<br>Latitude: -9.533819<br>Longitude: -35.779180<br>Situaação: OPERANTE<br>Localização: R. Dr. Juraci Pereira, 82 - Cidade Universitária, Maceió - AL<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): 72467.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Reservatórrio Jardim Royal 2
@@ -5517,7 +5517,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_151</name>
       <description><![CDATA[description: Ponto de referência: Na calçada oposta a loja Imperial Bolos<br>Latitude: -9.304845<br>Longitude: -35.942065<br>Situaação: OPERANTE<br>Localização: Murici - AL, 57820-000<br>Manutenção: <br>Cidade: Murici<br>Data Manutenção: <br>VAZÃO(L/min): 48067<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada oposta a loja Imperial Bolos<br>Latitude: -9.304845<br>Longitude: -35.942065<br>Situaação: OPERANTE<br>Localização: Murici - AL, 57820-000<br>Manutenção: <br>Cidade: Murici<br>Data Manutenção: <br>VAZÃO(L/min): 48067.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada oposta a loja Imperial Bolos
@@ -5583,7 +5583,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_157</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Reservatório RESE-BM-04<br>Latitude: -9.821648<br>Longitude: -35.928899<br>Situaação: OPERANTE<br>Localização: Conjunto Alto da Barra, Barra de São Miguel - AL, 57180-000<br>Manutenção: <br>Cidade: Barra de São Miguel<br>Data Manutenção: <br>VAZÃO(L/min): 89267<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO<br>Ponto de referência: Na calçada do Reservatório RESE-BM-04<br>Latitude: -9.821648<br>Longitude: -35.928899<br>Situaação: OPERANTE<br>Localização: Conjunto Alto da Barra, Barra de São Miguel - AL, 57180-000<br>Manutenção: <br>Cidade: Barra de São Miguel<br>Data Manutenção: <br>VAZÃO(L/min): 89267.0<br>DATA MEDIÇÃO: <br>PINTURA: OK<br>COR: TIPO C<br>OBSERVAÇÃO: MEDIDO]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Reservatório RESE-BM-04
@@ -5649,7 +5649,7 @@ OBSERVAÇÃO: MEDIDO</value>
     <Placemark>
       <name>Hidrante_160</name>
       <description><![CDATA[description: Ponto de referência: Na calçada do Reservatório Rio Novo<br>Latitude: -9.571409<br>Longitude: -35.809797<br>Situaação: OPERANTE<br>Localização: R. Boa Vista - Rio Novo, Maceió - AL, 57070-530<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Conexão frontal com defeito, não consegue acoplar o equipamento de medição<br>Ponto de referência: Na calçada do Reservatório Rio Novo<br>Latitude: -9.571409<br>Longitude: -35.809797<br>Situaação: OPERANTE<br>Localização: R. Boa Vista - Rio Novo, Maceió - AL, 57070-530<br>Manutenção: <br>Cidade: Maceió<br>Data Manutenção: <br>VAZÃO(L/min): <br>DATA MEDIÇÃO: <br>PINTURA: <br>COR: NÃO MEDIDO<br>OBSERVAÇÃO: Conexão frontal com defeito, não consegue acoplar o equipamento de medição]]></description>
-      <styleUrl>#icon-1703-0F9D58</styleUrl>
+      <styleUrl>#styleMapExample</styleUrl>
       <ExtendedData>
         <Data name="description">
           <value>Ponto de referência: Na calçada do Reservatório Rio Novo
